@@ -7,7 +7,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 - 🚀 Passionate about **Blockchain, Smart Contracts and Smart Contracts Audit**  
 - 💻 Skilled in **Solidity, Python, C++, and Web3**  
 - 🎯 Exploring **Decentralized Applications (DApps)** and smart contract security   
