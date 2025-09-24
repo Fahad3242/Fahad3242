@@ -34,14 +34,6 @@
 
 ---
 
-# 📂 Featured Projects
-🔗 [Decentralized Crowdfunding](https://github.com/Fahad3242/Decentralized-Crowdfunding) – Smart contract-based crowdfunding system in Solidity  
-🎲 [Decentralized Raffle](https://github.com/Fahad3242/Decentralized-Raffle) – Blockchain raffle system leveraging Ethereum  
-🧠 [Tic-Tac-Toe AI (Minimax & Alpha-Beta Pruning)](https://github.com/Fahad3242/Tic-Tac-Toe-AI-Minimax-and-Alpha-Beta-Pruning-Implementation) – AI-powered game with classic algorithms  
-🏏 [Hand Cricket Game](https://github.com/Fahad3242/Hand-cricket-Head-Tail-game-) – Fun C++ hand-cricket game  
-
----
-
 # 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fahad3242&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -66,4 +58,3 @@
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*
