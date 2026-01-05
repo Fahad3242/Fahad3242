@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Blockchain developer specializing in smart contracts, DApp development, and security audits. I build secure, scalable decentralized applications and contribute to innovative Web3 projects.
 
@@ -15,7 +15,7 @@ Blockchain developer specializing in smart contracts, DApp development, and secu
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 ### 🔗 Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -27,12 +27,12 @@ Blockchain developer specializing in smart contracts, DApp development, and secu
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white)
 
-### 🏢 Enterprise Blockchain
+###  Enterprise Blockchain
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Chaincode (Go)](https://img.shields.io/badge/Chaincode%20(Go)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![CouchDB](https://img.shields.io/badge/CouchDB-EF4444?style=for-the-badge&logo=apachecouchdb&logoColor=white)
 
-### 💻 Programming Languages
+###  Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -49,18 +49,7 @@ Blockchain developer specializing in smart contracts, DApp development, and secu
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahad3242&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad3242&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahad3242&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
@@ -83,5 +72,5 @@ Blockchain developer specializing in smart contracts, DApp development, and secu
 ---
 
 <p align="center">
-  <i>💡 Open to collaborating on innovative Web3 projects and smart contract audits</i>
+  <i> Open to collaborating on innovative Web3 projects and smart contract audits</i>
 </p>
